@@ -1,4 +1,4 @@
-package pattern;
+package pattern.Singletone;
 
 class DatabaseConnectionPool {
     private static DatabaseConnectionPool instance;

@@ -1,5 +1,4 @@
 package pattern.Factory;
-import javax.print.Doc;
 
 interface DocumentConverter {
     void convert();
